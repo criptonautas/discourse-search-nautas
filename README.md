@@ -2,6 +2,8 @@
 
 **ENGLISH** | [ESPAÑOL](README.es.md)
 
+Maintained by Criptonautas. Not affiliated with or endorsed by Discourse (Civilized Discourse Construction Kit, Inc.).
+
 A Discourse theme component that suggests a SearXNG instance as the search engine when the forum search returns no results.
 
 [How to install a theme component](https://meta.discourse.org/t/how-do-i-install-a-theme-or-theme-component/63682)

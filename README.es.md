@@ -2,6 +2,8 @@
 
 [ENGLISH](README.md) | **ESPAÑOL**
 
+Mantenido por Criptonautas. Sin afiliación ni respaldo de Discourse (Civilized Discourse Construction Kit, Inc.).
+
 Componente de tema de Discourse que sugiere una instancia de SearXNG como motor de búsqueda cuando la búsqueda del foro no devuelve resultados.
 
 [Cómo instalar un componente de tema](https://meta.discourse.org/t/how-do-i-install-a-theme-or-theme-component/63682)
