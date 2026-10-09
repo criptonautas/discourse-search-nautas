@@ -1,4 +1,9 @@
-# discourse-duckduckgo-search
-A theme component to use DuckDuckGo as the suggested search engine when there are no results
+# SearXNG Search Suggestions
 
-[Read this on how to install theme components](https://meta.discourse.org/t/how-do-i-install-a-theme-or-theme-component/63682)
+**ENGLISH** | [ESPAÑOL](README.es.md)
+
+A Discourse theme component that suggests a SearXNG instance as the search engine when the forum search returns no results.
+
+[How to install a theme component](https://meta.discourse.org/t/how-do-i-install-a-theme-or-theme-component/63682)
+
+Forked from [notriddle/discourse-duckduckgo-search](https://github.com/notriddle/discourse-duckduckgo-search). License: Apache 2.0 (see [LICENSE-APACHE](LICENSE-APACHE) and [NOTICE](NOTICE)).
